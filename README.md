@@ -4,4 +4,4 @@ The enhanced robustness compared to other models is demonstrated in the tables b
 
 | Attack | Softmax CNN | Robust Margin Prototype CNN |
 |--------|-------------|-----------------------------|
-|--------|ϵ=0.08 0.1 0.15 0.25|ϵ=0.08 0.1 0.15 0.25|
+|        |ϵ=0.08 |0.1 |0.15 |0.25|ϵ=0.08 |0.1 |0.15 |0.25|
