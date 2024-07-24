@@ -3,6 +3,6 @@ Our classifier minimizes the class variance by clustering the data points closer
 The enhanced robustness compared to other models is demonstrated in the tables below
 
 | Attack | Softmax CNN | Robust Margin Prototype CNN |
-|--------|---|---|----|---|-----------------------------|
-|        |ϵ=0.08|0.1|0.15|0.25|ϵ=0.08 0.1 0.15 0.25|
-|FGSM    |84.05 73.6 31.9 9.82 91.31| 91.31 85.57 69.72 41.29 |
+|--------|-------------|-----------------------------|
+|      ϵ=|0.08 0.1 0.15 0.25|0.08 0.1 0.15 0.25|
+|FGSM    |84.05 73.6 31.9 9.82| **91.31** **85.57** **69.72** **41.29** |
