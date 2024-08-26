@@ -5,6 +5,6 @@ This repository contains tensorflow code for a novel deep neural network, the ro
 ![alt text](https://i.imgur.com/1Q2wPsh.png)
 
 Our model enhances the robustness of CNNs by minimizing intra class variance and maintaining a margin between the different classes to ensure that the points within a class are compactly clustered together and far away from the decision boundary. Thus, the decision boundary learnt by our RMPE appears like:
-![alt text](https://ibb.co/wCnVSn1)
+![alt text](https://i.imgur.com/IaWXHG6.jpeg)
 
 
